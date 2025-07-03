@@ -20,18 +20,17 @@ This project provides an end-to-end business analysis of Walmart sales using Exc
 4.Ensured consistent naming conventions for fields like gender, city, category, etc.
 
 ## 🔍 Key Analyses Performed
- Area of Focus	                        Description
-Total & Avg Sales	        Identified total and average sales over the entire dataset.
 
-Sales by Category	        Ranked product categories by revenue contribution.
+ ### 🔍 Key Analyses Performed
 
-Branch-wise Revenue	      Compared revenue across branches to highlight top performers.
-
-Payment Method Analysis	  Assessed preferred modes of payment by number of transactions and revenue.
-
-Monthly Trends	Analyzed   Monthly revenue patterns for seasonality and trend forecasting.
-
-Revenue Contribution %	   Calculated share of each category's sales to total revenue for Waterfall.
+| 🔎 Area of Focus           | 📝 Description                                                                 
+|---------------------------|-------------------------------------------------------------------------------|
+| Total & Average Sales     | Identified overall total revenue and calculated average sales per transaction |
+| Sales by Category         | Ranked product categories by total revenue contribution                       |
+| Branch-wise Revenue       | Compared sales across branches to identify the highest-performing locations   |
+| Payment Method Analysis   | Evaluated which payment methods were most frequently used by customers        |
+| Monthly Revenue Trends    | Analyzed revenue over months to spot seasonal trends and support forecasting  |
+| Revenue Contribution %    | Used Waterfall Chart to show each category's % contribution to total revenue  |
 
 ## 📊 Power BI Dashboard
     The dashboard includes:
