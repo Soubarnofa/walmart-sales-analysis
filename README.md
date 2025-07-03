@@ -30,7 +30,7 @@ This project provides an end-to-end business analysis of Walmart sales using Exc
 | Branch-wise Revenue       | Compared sales across branches to identify the highest-performing locations   |
 | Payment Method Analysis   | Evaluated which payment methods were most frequently used by customers        |
 | Monthly Revenue Trends    | Analyzed revenue over months to spot seasonal trends and support forecasting  |
-| Revenue Contribution %    | Used Waterfall Chart to show each category's % contribution to total revenue  |
+| Revenue Contribution %    | Used donut Chart to show each category's % contribution to total revenue  |
 
 ## 📊 Power BI Dashboard
     The dashboard includes:
