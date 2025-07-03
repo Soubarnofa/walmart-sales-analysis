@@ -29,9 +29,9 @@ Branch-wise Revenue	      Compared revenue across branches to highlight top perf
 
 Payment Method Analysis	  Assessed preferred modes of payment by number of transactions and revenue.
 
-Monthly Trends	Analyzed  monthly revenue patterns for seasonality and trend forecasting.
+Monthly Trends	Analyzed   Monthly revenue patterns for seasonality and trend forecasting.
 
-Revenue Contribution %	  Calculated share of each category's sales to total revenue for Waterfall.
+Revenue Contribution %	   Calculated share of each category's sales to total revenue for Waterfall.
 
 ## 📊 Power BI Dashboard
     The dashboard includes:
